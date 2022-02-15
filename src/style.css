@@ -1,0 +1,25 @@
+body {
+box-sizing: border-box;
+margin: 0;
+padding: 0;    
+
+}
+
+.header{
+    background-color: #F55A5A;
+display: flex;
+
+justify-content: center;
+
+}
+
+
+.location{
+    margin: 20px;
+    display: flex;
+}
+
+.location--image >img{
+    width: 125px;
+    height: 168px;
+}
